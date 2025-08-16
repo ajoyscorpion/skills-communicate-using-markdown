@@ -4,3 +4,6 @@
 #### My background in Applied Physics equips me with analytical and problem-solving skills for structured project execution.
 ##### I focus on team collaboration, timely delivery, and aligning projects with business goals.
 ###### Passionate about technology and leadership, I aim to grow as a Project Manager driving impact at scale.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
